@@ -70,7 +70,7 @@ The agent follows a strict 4-step logical pipeline to ensure accuracy:
   Bash
 
    ```
-   streamlit run app/main.py
+   python -m streamlit run app/main.py
    ```
 
 ---
